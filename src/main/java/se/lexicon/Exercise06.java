@@ -15,10 +15,8 @@ public class Exercise06 {
     public static void ex6() {
         double[] value = {43, 5, 23, 17, 2, 14};
         double sum = 0;
-            for (int i = 0; i < value.length; i++) {
-
-                 sum += value[i];
-
+            for (int i = 0; i < value.length; i++){
+                sum = sum + value[i];
             }
             System.out.println("The average of the array of elements is " + sum / value.length);
         }
