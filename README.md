@@ -1,8 +1,9 @@
 # Array Exercises
 
-Group Name **[group_name]**
+Group Name **[group_5]**
 
-1. [student name]
-2. [student name]
-3. [student name]
-4. [student name]
+1. [Tahsin Khan]
+2. [Lubna Farheen Salauddinkhan]]
+3. [Agboola Oluwaseun Esther]
+4. [Valentin Soare]
+5. [Tesfaldet Weldemicheal]

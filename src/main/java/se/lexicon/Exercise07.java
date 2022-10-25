@@ -18,6 +18,7 @@ public class Exercise07 {
       }
     }
   }
+  //Just for reference
   public static void demo(){
     for(int i=0; i<20; i++){
       if(i % 2 != 0){

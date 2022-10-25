@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class Exercise03 {
     public static void main(String[] args) {
-        ex3();
+
     }
 
     /**
@@ -17,7 +17,7 @@ public class Exercise03 {
         String[] names = { "Paris" , "London" , "New York" , "Stockholm" };
         Arrays.sort(names);
         for (String name : names) {
-            System.out.print(name + "\t");
+            System.out.println(name);
         }
     }
 
